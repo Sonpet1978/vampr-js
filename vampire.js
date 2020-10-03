@@ -4,7 +4,7 @@ class Vampire {
     this.yearConverted = yearConverted;
     this.offspring = [];
     this.creator = null;
-    //
+    //add
   }
 
   /** Simple tree methods **/
